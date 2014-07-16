@@ -2286,4 +2286,4 @@ typedef enum
 
 
 // mod version data
-#define SPLASH_VERSION          "0.1.8 (Feb 25)"
+#define SPLASH_VERSION          "0.1.9.4 (July 14th, 2014)"
